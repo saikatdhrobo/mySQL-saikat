@@ -23,3 +23,8 @@ VALUES (
     NULL,               -- no time
     NULL                -- no date+time
 );
+
+
+-- I don't need the table further. It's just a education purpose table..So delete it
+
+drop table test;
